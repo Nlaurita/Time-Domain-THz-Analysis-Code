@@ -12,7 +12,7 @@ The user then loads the raw data via the analysis palette, which is accessible b
 
 ONLY CALCULATING THE MAGNETIC SUSCEPTIBILITY OF A SAMPLE:
 
-I've also written a new proceedure "NJL_MagneticSusceptibilityCode.ipf" which allows the user to quickly calculate the magnetic susceptibility of a sample.  This code is a greatly condensed and simplier version of the main analysis proceedure described above.  Here, the user feeds the program only the complex raw transmission of a sample (with naming conventions described in the code) and the code calculates the complex index of refraction and complex magnetic susceptibility of the sample.  This code is very user friendly and should make calculating the magnetic susceptibilty of a sample quick and easy.
+I've also written a new proceedure "NJL_MagneticSusceptibilityCode.ipf" which allows the user to quickly calculate the magnetic susceptibility of a sample.  This code is a greatly condensed and simplier version of the main analysis proceedure described above.  Here, the user feeds the program only the complex raw transmission of a sample (with naming conventions described in the code) and then code calculates the complex index of refraction and complex magnetic susceptibility of the sample.  This code is very user friendly and should make calculating the magnetic susceptibilty of a sample quick and easy.
 
 USING THIS CODE:
 
