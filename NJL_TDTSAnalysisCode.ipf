@@ -1,7 +1,7 @@
 #pragma rtGlobals=3		// Use modern global access method and strict wave access.
 #include <KBColorizeTraces>
 
-//************************************************************************************ PLEASE GIVE PROPER ACKNOWLEDGEMENT WHEN USING THIS CODE ************************************************************************************//
+//************************************************************************************ PLEASE GIVE PROPER ACKNOWLEDGEMENT WHEN USING THIS CODE **********************************************************************************************************************//
 //
 //  This code is public and it is my sincere hope that it will be useful to others in the field, in fact that's partially why I wrote it!  However, if this code does aid in the analysis of your data then I kindly ask that proper 
 //  acknowledgement be given in return. 
@@ -31,7 +31,7 @@
 
 
 
-//************************************************************************************************** INSTRUCTIONS FOR RUNNING THE CODE *************************************************************************************************************//
+//************************************************************************************************** INSTRUCTIONS FOR RUNNING THE CODE *****************************************************************************************************************************//
 //
 // #1	Select the type of experiment you have performed.  The code can analyze data taken as a function of temperature or magnetic field, although the choice only changes the type of naming convention the program looks 
 //		for and could easily be adapted to analyze data as a function of any parameter.  You also have the option of including the rotating polarizer, i.e. the "rotator", in the analysis.  When this option is chosen the code
