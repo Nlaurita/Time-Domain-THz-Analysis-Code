@@ -3,14 +3,14 @@
 This is a comprehensive collection of data analysis routines for analyzing time-domain terahertz spectroscopy (TDTS) data with [Igor Pro](https://www.wavemetrics.com/products/igorpro/igorpro.htm), a data analysis application provided by [WaveMetrics](https://www.wavemetrics.com/index.html).
 
 ## **Running The Procedures**
-In order to run these procedures I recomment saving the .ipf files in the "User Files Directory" of Igor so that the procedures can be accessed by any Igor experiment.  Each .ipf file has a control panel GUI which makes running the analysis routines easy.  The GUI can be accessed either through the macros menu or simple by pressing Ctrl-2.  Detailed instructions for using each piece of code can be found at the top of each .ipf file.  
+In order to run these procedures I recommend saving the .ipf files in the "User Files Directory" of Igor so that the procedures can be accessed by any Igor experiment.  Each .ipf file has a control panel GUI which makes running the analysis routines easy.  The GUI can be accessed either through the macros menu or simple by pressing Ctrl-2.  Detailed instructions for using each piece of code can be found at the top of each .ipf file.  
 
 ## **Description of Routines**
 
 Detailed instructions for using each piece of code can be found at the top of each .ipf file.  However, a brief summary of the code is as follows:
 
 ### **Prerequisite Routines For Main Analysis Procedure**
-The main analysis procedure "NJL_TDTSAnalysisCode.ipf" was written to interface with a data processing procedure written by [laserstonewall](https://github.com/laserstonewall?tab=repositories).  I recommend saving [this](https://github.com/laserstonewall/THzTDSProcedures/blob/master/THz_Procedures_02-12-2014.ipf) procedure in the "User Files Directory" along with the routines provided here for best results and improved capabiliities.
+The main analysis procedure "NJL_TDTSAnalysisCode.ipf" was written to interface with a data processing procedure written by [laserstonewall](https://github.com/laserstonewall?tab=repositories).  I recommend saving [this](https://github.com/laserstonewall/THzTDSProcedures/blob/master/THz_Procedures_02-12-2014.ipf) procedure in the "User Files Directory" along with the routines provided here for best results and improved capabilities.
 
 ### **Main Analysis Procedure**:
 
@@ -20,11 +20,11 @@ The routine is applicable to dielectric conductors, magnetic insulators, and sup
 
 ### **Calculating The Optical Complex Magnetic Susceptibility Of A Sample**:
 
-Also included is a procedure "NJL_MagneticSusceptibilityCode.ipf" which allows the user to quickly calculate the complex magnetic susceptibility of a sample from a TDTS measurement.  This procedure is a greatly condensed and simplified version of the main analysis procedure described above.  Here, the user feeds the program only the complex raw transmission of a sample (with naming conventions described in the code) and then the procedure calculates the complex index of refraction and complex magnetic susceptibility of the sample.  For more information regarding the method for calculating the complex magnetic susceptibility, please see chatper 2 of my [Ph.D. thesis](https://drive.google.com/file/d/0B7K_8wnuzg_QRE9lQkczZlpEUDQ/view).
+Also included is a procedure "NJL_MagneticSusceptibilityCode.ipf" which allows the user to quickly calculate the complex magnetic susceptibility of a sample from a TDTS measurement.  This procedure is a greatly condensed and simplified version of the main analysis procedure described above.  Here, the user feeds the program only the complex raw transmission of a sample (with naming conventions described in the code) and then the procedure calculates the complex index of refraction and complex magnetic susceptibility of the sample.  For more information regarding the method for calculating the complex magnetic susceptibility, please see Chapter 2 of my [Ph.D. thesis](https://drive.google.com/file/d/0B7K_8wnuzg_QRE9lQkczZlpEUDQ/view).
 
 ## **Code Use**:
 
-I ask that you please give credit by citing this repository if using or adapting this code for your research.  Also, If you compute the magnetic susceptibility of your sample with these procedures, then please cite my [Phys. Rev. Lett. Publication](https://link.aps.org/doi/10.1103/PhysRevLett.114.207201) from which that analysis originated.
+I ask that you please give credit by citing this repository if using or adapting this code for your research.  Also, If you compute the magnetic susceptibility of your sample with these procedures, then please cite my [Phys. Rev. Lett.](https://link.aps.org/doi/10.1103/PhysRevLett.114.207201) publication from which that analysis originated.
 
 ## **Credits**
 These procedures were developed in the [group](https://sites.google.com/site/nparmitagegroup/) of Professor [N. Peter Armitage](http://physics-astronomy.jhu.edu/directory/n-peter-armitage/) in the [Johns Hopkins University Physics Department](http://physics-astronomy.jhu.edu/).
