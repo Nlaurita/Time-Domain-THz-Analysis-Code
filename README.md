@@ -20,15 +20,14 @@ The routine is applicable to dielectric conductors, magnetic insulators, and sup
 
 ### **Calculating The Optical Complex Magnetic Susceptibility Of A Sample**:
 
-Also included is a procedure "NJL_MagneticSusceptibilityCode.ipf" which allows the user to quickly calculate the complex magnetic susceptibility of a sample from a TDTS measurement.  This procedure is a greatly condensed and simplified version of the main analysis procedure described above.  Here, the user feeds the program only the complex raw transmission of a sample (with naming conventions described in the code) and then the procedure calculates the complex index of refraction and complex magnetic susceptibility of the sample.  This code is very user friendly and should make calculating the magnetic susceptibilty of a sample quick and easy.
-
-## **Credits**
-These procedures were developed in the [group](https://sites.google.com/site/nparmitagegroup/) of Professor [N. Peter Armitage](http://physics-astronomy.jhu.edu/directory/n-peter-armitage/) in the [Johns Hopkins University Physics Department](http://physics-astronomy.jhu.edu/).
+Also included is a procedure "NJL_MagneticSusceptibilityCode.ipf" which allows the user to quickly calculate the complex magnetic susceptibility of a sample from a TDTS measurement.  This procedure is a greatly condensed and simplified version of the main analysis procedure described above.  Here, the user feeds the program only the complex raw transmission of a sample (with naming conventions described in the code) and then the procedure calculates the complex index of refraction and complex magnetic susceptibility of the sample.  For more information regarding the method for calculating the complex magnetic susceptibility, please see chatper 2 of my [PH.D. thesis](https://drive.google.com/file/d/0B7K_8wnuzg_QRE9lQkczZlpEUDQ/view).
 
 ## **Code Use**:
 
 I wrote this code in the earlier days of my Ph.D. to help streamline the data analysis process for both myself and my lab-mates.  My genuine hope is that it will be useful to the scientific community at large.  With that being said, I ask that you please give credit if using or adapting this code.  I request that you acknowledge the use of this code in any manuscript for which it was used as: "We thank N. J. Laurita for access to his data analysis routines."  Also, If you compute the magnetic susceptibility of your sample with these procedures, then please cite my PRL from which that analysis originated: https://link.aps.org/doi/10.1103/PhysRevLett.114.207201
 
+## **Credits**
+These procedures were developed in the [group](https://sites.google.com/site/nparmitagegroup/) of Professor [N. Peter Armitage](http://physics-astronomy.jhu.edu/directory/n-peter-armitage/) in the [Johns Hopkins University Physics Department](http://physics-astronomy.jhu.edu/).
 
 ## **Contact**
 If you would like help using this code, found this code useful, or have suggestions for improvements please feel free to contact me at Laurita.Nicholas@gmail.com.
