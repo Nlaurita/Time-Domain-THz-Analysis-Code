@@ -24,7 +24,7 @@ Also included is a procedure "NJL_MagneticSusceptibilityCode.ipf" which allows t
 
 ## **Code Use**
 
-I ask that you please give credit by citing this repository if using or adapting this code for your research.  Also, If you compute the magnetic susceptibility of your sample with these procedures, then please cite my [Phys. Rev. Lett.](https://link.aps.org/doi/10.1103/PhysRevLett.114.207201) publication from which that analysis originated.
+I ask that you please give credit by citing this repository if using or adapting this code for your own research.  Also, If you compute the magnetic susceptibility of your sample with these procedures, then please cite my [Phys. Rev. Lett.](https://link.aps.org/doi/10.1103/PhysRevLett.114.207201) publication from which that analysis originated.
 
 ## **Credits**
 These procedures were developed in the [group](https://sites.google.com/site/nparmitagegroup/) of Professor [N. Peter Armitage](http://physics-astronomy.jhu.edu/directory/n-peter-armitage/) in the [Johns Hopkins University Physics Department](http://physics-astronomy.jhu.edu/).
