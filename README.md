@@ -9,7 +9,7 @@ In order to run these procedures I recomment saving the .ipf files in the "User 
 
 Detailed instructions for using each piece of code can be found at the top of each .ipf file.  However, a brief summary of the code is as follows:
 
-## **Prerequisite Routines For Main Analysis Procedure**
+### **Prerequisite Routines For Main Analysis Procedure**
 The main analysis procedure "NJL_TDTSAnalysisCode.ipf" was written to interface with a data processing procedure written by [laserstonewall](https://github.com/laserstonewall?tab=repositories).  I recommend saving [this](https://github.com/laserstonewall/THzTDSProcedures/blob/master/THz_Procedures_02-12-2014.ipf) procedure in the "User Files Directory" along with the routines provided here for best results and improved capabiliities.
 
 ### **Main Analysis Procedure**:
