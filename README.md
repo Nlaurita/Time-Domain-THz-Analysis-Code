@@ -18,7 +18,7 @@ The main analysis procedure, "NJL_TDTSAnalysisCode.ipf" file, is a data analysis
 
 The routine is applicable to dielectric conductors, magnetic insulators, and superconducting samples and is capable of computing the complex conductivity, the complex magnetic susceptibility, and Faraday rotation in both the linear and circular bases.  It can also perform frequency cuts at user specified frequencies for all the above quantities.
 
-### **Calculating The Magnetic Susceptibility Of A Sample**:
+### **Calculating The Optical Complex Magnetic Susceptibility Of A Sample**:
 
 Also included is a procedure "NJL_MagneticSusceptibilityCode.ipf" which allows the user to quickly calculate the complex magnetic susceptibility of a sample from a TDTS measurement.  This code is a greatly condensed and simplier version of the main analysis procedure described above.  Here, the user feeds the program only the complex raw transmission of a sample (with naming conventions described in the code) and then code calculates the complex index of refraction and complex magnetic susceptibility of the sample.  This code is very user friendly and should make calculating the magnetic susceptibilty of a sample quick and easy.
 
