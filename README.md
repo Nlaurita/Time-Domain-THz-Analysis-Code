@@ -1,6 +1,8 @@
 # Time-Domain-THz-Analysis-Code
 
-This is a comprehensive collection of data analysis routines for analyzing time-domain terahertz spectroscopy (TDTS) data with IgorPro.  This code was originally developed for use in Dr. Peter Armitage's Complex Materials Spectroscopy Laboratory at The Johns Hopkins University.  However, the code is robust and should be easily adaptable by any experimentalist who wishes to analyze TDTS data.
+This is a comprehensive collection of data analysis routines for analyzing time-domain terahertz spectroscopy (TDTS) data with [test](https://www.wavemetrics.com/products/igorpro/igorpro.htm) IgorPro
+
+IgorPro.  This code was originally developed for use in Dr. Peter Armitage's Complex Materials Spectroscopy Laboratory at The Johns Hopkins University.  However, the code is robust and should be easily adaptable by any experimentalist who wishes to analyze TDTS data.
 
 Detailed instructions for using each piece of code can be found at the top of each .ipf file.  However, a brief summary of the code is as follows:
 
