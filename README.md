@@ -18,7 +18,10 @@ The user then loads the raw data via the analysis palette, which is accessible b
 
 I've also written a new procedure "NJL_MagneticSusceptibilityCode.ipf" which allows the user to quickly calculate the magnetic susceptibility of a sample.  This code is a greatly condensed and simplier version of the main analysis procedure described above.  Here, the user feeds the program only the complex raw transmission of a sample (with naming conventions described in the code) and then code calculates the complex index of refraction and complex magnetic susceptibility of the sample.  This code is very user friendly and should make calculating the magnetic susceptibilty of a sample quick and easy.
 
-### **Code Use**:
+## **Credits**
+These procedures were developed in the [group](https://sites.google.com/site/nparmitagegroup/) of Professor [N. Peter Armitage](http://physics-astronomy.jhu.edu/directory/n-peter-armitage/) in the [Johns Hopkins University Physics Department](http://physics-astronomy.jhu.edu/).
+
+## **Code Use**:
 
 I wrote this code in the earlier days of my Ph.D. to help streamline the data analysis process for both myself and my lab-mates.  My genuine hope is that it will be useful to the scientific community at large.  With that being said, I ask that you please give credit if using or adapting this code.  I request that you acknowledge the use of this code in any manuscript for which it was used as: "We thank N. J. Laurita for access to his data analysis routines."  Also, If you compute the magnetic susceptibility of your sample with these procedures, then please cite my PRL from which that analysis originated: https://link.aps.org/doi/10.1103/PhysRevLett.114.207201
 
