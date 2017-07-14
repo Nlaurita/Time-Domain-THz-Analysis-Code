@@ -25,7 +25,7 @@ These procedures were developed in the [group](https://sites.google.com/site/npa
 
 I wrote this code in the earlier days of my Ph.D. to help streamline the data analysis process for both myself and my lab-mates.  My genuine hope is that it will be useful to the scientific community at large.  With that being said, I ask that you please give credit if using or adapting this code.  I request that you acknowledge the use of this code in any manuscript for which it was used as: "We thank N. J. Laurita for access to his data analysis routines."  Also, If you compute the magnetic susceptibility of your sample with these procedures, then please cite my PRL from which that analysis originated: https://link.aps.org/doi/10.1103/PhysRevLett.114.207201
 
-If you found this code useful or have suggestions for improvements please let me know! I'd love to hear about the exciting uses that this code has contributed to, I can be reached at NLaurita1@Gmail.com.
 
-Best of luck-
-NJL
+## **Contact**
+If you would like help using this code, found this code useful, or have suggestions for improvements please feel free to contact me at Laurita.Nicholas@gmail.com.
+
