@@ -3,7 +3,7 @@
 This is a comprehensive collection of data analysis routines for analyzing time-domain terahertz spectroscopy (TDTS) data with [Igor Pro](https://www.wavemetrics.com/products/igorpro/igorpro.htm), a data analysis application provided by [WaveMetrics](https://www.wavemetrics.com/index.html).
 
 ## **Running The Procedures**
-In order to run these procedures I recomment saving the .ipf files in the "User Files Directory" of Igor so that the procedure can be accessed by any Igor experiment.  Each .ipf file has a control panel GUI which makes running the analysis routines easy.  The Gui can be accessed either through the macros menu or simple by pressing Ctrl-2.  Detailed instructions for using each piece of code can be found at the top of each .ipf file.  
+In order to run these procedures I recomment saving the .ipf files in the "User Files Directory" of Igor so that the procedures can be accessed by any Igor experiment.  Each .ipf file has a control panel GUI which makes running the analysis routines easy.  The GUI can be accessed either through the macros menu or simple by pressing Ctrl-2.  Detailed instructions for using each piece of code can be found at the top of each .ipf file.  
 
 ## **Description of Routines**
 
