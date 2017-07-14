@@ -20,7 +20,7 @@ The routine is applicable to dielectric conductors, magnetic insulators, and sup
 
 ### **Calculating The Magnetic Susceptibility Of A Sample**:
 
-I've also written a new procedure "NJL_MagneticSusceptibilityCode.ipf" which allows the user to quickly calculate the magnetic susceptibility of a sample.  This code is a greatly condensed and simplier version of the main analysis procedure described above.  Here, the user feeds the program only the complex raw transmission of a sample (with naming conventions described in the code) and then code calculates the complex index of refraction and complex magnetic susceptibility of the sample.  This code is very user friendly and should make calculating the magnetic susceptibilty of a sample quick and easy.
+Also included is a procedure "NJL_MagneticSusceptibilityCode.ipf" which allows the user to quickly calculate the complex magnetic susceptibility of a sample from a TDTS measurement.  This code is a greatly condensed and simplier version of the main analysis procedure described above.  Here, the user feeds the program only the complex raw transmission of a sample (with naming conventions described in the code) and then code calculates the complex index of refraction and complex magnetic susceptibility of the sample.  This code is very user friendly and should make calculating the magnetic susceptibilty of a sample quick and easy.
 
 ## **Credits**
 These procedures were developed in the [group](https://sites.google.com/site/nparmitagegroup/) of Professor [N. Peter Armitage](http://physics-astronomy.jhu.edu/directory/n-peter-armitage/) in the [Johns Hopkins University Physics Department](http://physics-astronomy.jhu.edu/).
